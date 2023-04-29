@@ -1,0 +1,2 @@
+Vat thu: 2, gia tri: 7, trong luong: 3
+Vat thu: 3, gia tri: 10, trong luong: 6
